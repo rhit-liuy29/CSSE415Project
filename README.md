@@ -4,6 +4,7 @@
 
 * Basic packets that needed to the run code (should be included with standard Anaconda and Junipter enviornment)
   * sklearn
+  * pandas
   * numpy
   * seaborn
   * matplotlib
